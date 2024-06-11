@@ -1,4 +1,4 @@
-<h1 style = "font-family:'Times New Roman';"> Alessandra Silva </h1>
+<h1> Alessandra Silva </h1>
 <h3> Hi there 👋. I'm Aleu, a dedicated and pasionate Computer Science student from Peru </h3>
 
 - 🌱 I’m currently learning **Spring** and **React**
